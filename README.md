@@ -2,9 +2,10 @@
 
 ## sub heading
 
-'''
+```
 code snippet
-'''
+within backquotes
+```
 
 ### vim uses markdown
 
